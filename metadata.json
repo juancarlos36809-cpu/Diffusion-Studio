@@ -1,0 +1,5 @@
+{
+  "name": "Diffusion Studio",
+  "description": "A professional-grade AI image generation workspace featuring Gemini 3 Pro and Flash models with advanced prompt controls.",
+  "requestFramePermissions": []
+}
